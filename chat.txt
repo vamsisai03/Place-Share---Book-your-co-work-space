@@ -1,0 +1,67 @@
+<span>vamsi</span>bkbk 
+<span>vamsi</span>vvjuvv 
+<span>Guest</span>bbibgi 
+<span>admin</span>gtrfrzrts 
+<span>tarun</span>zezezrerz 
+<span>tarun</span>hchcy 
+<span>admin</span>ycycf 
+<span>tarun</span>hi 
+<span>admin</span>hi 
+<span>tarun</span>hi 
+<span>admin</span>hlo 
+<span>tarun</span>ufff 
+<span>vamsi</span>Hi 
+<span>admin</span>Hlo. How may i help u? 
+<span>vamsi</span>I am having a booking issue 
+<span>admin</span>May i know what  
+<span>vamsi</span>Hi 
+<span>admin</span>Hlo 
+<span>vamsi</span>Hi 
+<span>vamsi</span>Hi 
+<span>Vamsi</span>Hi 
+<span>admin</span>Hlo 
+<span>Vamsi</span>Hi 
+<span>admin</span>Hlo 
+<span>Vamsi</span>How r u? 
+<span>admin</span>I am fine 
+<span>Vamsi</span>Hi 
+<span>Vamsi</span>Hi 
+<span>Vamsi</span>Hi 
+<span>Vamsi</span>I am having problem with my booking 
+<span>admin</span>What is the problem 
+<span>Guest</span>Hi 
+<span>Guest</span>I need a link to register my friends for chatting platform 
+<span>admin</span>Sure i will provide you 
+<span>admin</span>http://localhost/iwp/chat3/register .php
+<span>Guest</span>Hi admin 
+<span>admin</span>Hi user 
+<span>Ram</span>Hi admin 
+<span>admin</span>Hi Ram 
+<span>Ram</span>I have done a booking with booking id 1034 
+<span>Ram</span>I need a local chatting application for chatting with my colics  
+<span>admin</span>Ok i will provide u with a link register there 
+<span>admin</span>http://localhost/iwp/chat3/register .php
+<span>Ram</span>Thank u 
+<span>madesh</span>Hi admin 
+<span>admin</span>Hi mades 
+<span>madesh</span>I need a local chat platform for me and my friends 
+<span>admin</span>Using this link you and your friends can sign up 
+<span>admin</span>http://localhost/iwp/chat3/register.php 
+<span>Ram</span>Hi Admin 
+<span>admin</span>Hello user. How can I help you? 
+<span>Ram</span>I have made a booking with B ooking ID 1040
+<span>Ram</span>I need a local chatting platform to chat with my teammates for whom i made booking  
+<span>admin</span>Sure I will provide you with a link 
+<span>admin</span>You and your team can register through that link 
+<span>admin</span>http://localhost/iwp/chat3/register.php 
+<span>Ram</span>Ok. Thank you Admin 
+<span>Vamsi</span>Hi Admin 
+<span>Vamsi</span>Hi admin 
+<span>admin</span>Hello user 
+<span>Vamsi</span>I need a lin to register for local chatting application 
+<span>admin</span>Sure i will provide you 
+<span>admin</span>http://localhost/iwp/chat3/register.php 
+<span>Ritesh</span>Hi admin 
+<span>admin</span>Hi user 
+<span>Ritesh</span>I need a chatting application link 
+<span>admin</span>http://localhost/iwp/chat3/register.php 
