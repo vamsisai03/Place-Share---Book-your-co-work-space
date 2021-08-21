@@ -1,0 +1,501 @@
+body {
+ font-size:16px;
+ font-family:sans-sheriff;
+ color:#1B1464;
+}
+.textbox{
+	width:80%;
+	overflow:hidden;
+	padding:8px 0;
+	margin:8px 0;
+	border-bottom:1px solid #4caf50;
+}
+.textbox i{
+	width:26px;
+	float:left;
+	text-align:center;
+}
+.textbox input{
+    border:none;
+	width:300px;
+    outline:none;
+    text-align:none;
+}
+
+
+.topnav2 {
+  overflow: hidden;
+  background-image:linear-gradient(to bottom right,#1289A7,#12CBC4);
+  font-size:25px;
+  font-weight:bold;
+  color:#2f3640;
+  padding:5px;
+  text-align:right;
+  opacity:0.95;
+}
+
+.topnav {
+  overflow: hidden;
+  background-image:linear-gradient(to bottom right,#ffa801,#ffdd59);
+  opacity:0.95;
+}
+
+.topnav a {
+  float: right;
+  color: #1B1464;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  background-image:linear-gradient(to bottom right,#9980FA,#D980FA);
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #5352ed;
+  color: white;
+}
+.foo {
+  overflow: hidden;
+  font-size:25px;
+  font-weight:bold;
+  color:black;
+  padding:5px;
+  margin-top:200px; 
+  text-align:center;
+}
+.hello {
+    border: 2px solid #3498db; 
+    background-color: #222f3e; 
+    height: 40px; 
+    width: 150px; 
+    color: #3498db; 
+	font-size:25px;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); 
+	cursor:pointer;
+}
+.hello:hover
+{
+	background-image:linear-gradient(to right, #00a8ff ,#ecf0f1);
+	color:black;
+}
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+.textbox{
+	width:80%;
+	overflow:hiddeen;
+	font-size:20px;
+	padding:8px 0;
+	margin:8px 0;
+	border-bottom:1px solid #4caf50;
+}
+.textbox i{
+	width:26px;
+	float:left;
+	text-align:center;
+}
+.textbox input{
+    border:none;
+    outline:none;
+    text-align:none;
+}
+
+#main-wrapper3
+{
+	width:600px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+	opacity:0.90;
+}
+body {
+ font-size:16px;
+ font-family:sans-sheriff;
+ color:#1B1464;
+}
+.textbox{
+	width:80%;
+	overflow:hidden;
+	padding:8px 0;
+	margin:8px 0;
+	border-bottom:1px solid #4caf50;
+}
+.textbox i{
+	width:26px;
+	float:left;
+	text-align:center;
+}
+.textbox input{
+    border:none;
+	width:300px;
+    outline:none;
+    text-align:none;
+}
+
+
+.topnav2 {
+  overflow: hidden;
+  background-image:linear-gradient(to bottom right,#1289A7,#12CBC4);
+  font-size:25px;
+  font-weight:bold;
+  color:#2f3640;
+  padding:5px;
+  text-align:right;
+  opacity:0.95;
+}
+
+.topnav {
+  overflow: hidden;
+  background-image:linear-gradient(to bottom right,#ffa801,#ffdd59);
+  opacity:0.95;
+}
+
+.topnav a {
+  float: right;
+  color: #1B1464;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  background-image:linear-gradient(to bottom right,#9980FA,#D980FA);
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #5352ed;
+  color: white;
+}
+.foo {
+  overflow: hidden;
+  font-size:25px;
+  font-weight:bold;
+  color:black;
+  padding:5px;
+  margin-top:200px; 
+  text-align:center;
+}
+.hello {
+    border: 2px solid #3498db; 
+    background-color: #222f3e; 
+    height: 40px; 
+    width: 150px; 
+    color: #3498db; 
+	font-size:25px;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); 
+	cursor:pointer;
+}
+.hello:hover
+{
+	background-image:linear-gradient(to right, #00a8ff ,#ecf0f1);
+	color:black;
+}
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+.textbox{
+	width:80%;
+	overflow:hiddeen;
+	font-size:20px;
+	padding:8px 0;
+	margin:8px 0;
+	border-bottom:1px solid #4caf50;
+}
+.textbox i{
+	width:26px;
+	float:left;
+	text-align:center;
+}
+.textbox input{
+    border:none;
+    outline:none;
+    text-align:none;
+}
+
+#main-wrapper3
+{
+	width:600px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+	opacity:0.90;
+}
+
+#btn
+{
+	margin-bottom:20px;
+	background-image:linear-gradient(to right,#9980FA,#FDA7DF);
+	width:50%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+#btn:hover
+{
+	background-image:linear-gradient(to right, #00a8ff ,#ecf0f1);
+}
+
+#main-wrapper
+{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+	opacity:0.95;
+} 
+
+.IWMS
+{
+	width:150px;
+	text-align:center;
+}
+#login_btn
+{
+	background-image:linear-gradient(to right, #00b894 , #2ecc71);
+	width:50%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+#login_btn:hover
+{
+	background-image:linear-gradient(to right, #00cec9 ,#ecf0f1);
+	color:black;
+}
+
+#signup_btn
+{
+	background-image:linear-gradient(to bottom right,#273c75,#0652DD);
+	width:40%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	border-radius:20px;
+	outline:none;
+}
+#signup_btn:hover
+{
+	background-image:linear-gradient(to right, #00cec9 ,#ecf0f1);
+	color:black;
+}
+
+#back_btn2
+{
+	background-image:linear-gradient(to bottom right,#c0392b,#e74c3c);
+	width:30%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	margin-bottom:20px;
+	border-radius:20px;
+	outline:none;
+}
+#back_btn2:hover
+{
+	background-image:linear-gradient(to right, #00cec9 ,#ecf0f1);
+	color:black;
+}
+
+#sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #2d3436;
+  padding-top: 60px;
+  opacity: 0.9;
+}
+
+#sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+}
+
+#sidenav a:hover {
+  color: #17c0eb;
+  background-color: #636e72;
+}
+
+#book_btn2
+{
+	background-image:linear-gradient(to bottom right,#009432,#1dd1a1);
+	width:20%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	margin-bottom:20px;
+	outline:none;
+}
+
+
+#main-wrapper2
+{
+	width:800px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+	opacity:0.95;
+} 
+
+#book_btn
+{
+	background-image:linear-gradient(to bottom right,#009432,#1dd1a1);
+	width:30%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	margin-bottom:20px;
+	border-radius:20px;
+	outline:none;
+}
+
+#book_btn:hover
+{
+	background-image:linear-gradient(to bottom right,#9980FA,#D980FA);
+
+}
+#bthp2
+{
+	background-image:linear-gradient(to bottom right,#c0392b,#e74c3c);
+	width:30%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	outline:none;
+	border-radius:20px;
+}
+#bthp2:hover
+{
+background-image:linear-gradient(to bottom right,#9980FA,#D980FA);
+}
+
+#logout_btn2
+{
+	background-image:linear-gradient(to bottom right,#c0392b,#e74c3c);
+	width:10%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+
+	border-radius:20px;
+}
+#logout_btn2:hover
+{
+	background-image:linear-gradient(to bottom right,#0652DD,#12CBC4);
+border-radius:0px;
+}
+#back_btn
+{
+	background-image:linear-gradient(to bottom right,#c0392b,#e74c3c);
+	width:30%;
+	padding:5px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:white;
+	margin-bottom:20px;
+	outline:none;
+	border-radius:20px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+.sidebar {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  opacity:0.9;
+}
+
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #111;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color: #444;
+}
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+.bottom {
+    position: fixed;
+    bottom: 10px;
+    right: 0px; 
+	background-image:linear-gradient(to bottom right,#eb2f06,#f8c291);
+	font-size:25px;
+	font-family: "Trebuchet MS";
+	border-radius:20px;
+	outline:none;
+}
