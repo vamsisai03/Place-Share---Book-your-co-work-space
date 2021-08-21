@@ -1,0 +1,115 @@
+body {
+ font-size:16px;
+ font-family:sans-sheriff;
+ color:#1B1464;
+}
+.textbox{
+	width:80%;
+	overflow:hidden;
+	padding:8px 0;
+	margin:8px 0;
+	border-bottom:1px solid #4caf50;
+}
+.textbox i{
+	width:26px;
+	float:left;
+	text-align:center;
+}
+.textbox input{
+    border:none;
+	width:300px;
+    outline:none;
+    text-align:none;
+}
+
+
+.topnav2 {
+  overflow: hidden;
+  background-image:linear-gradient(to bottom right,#1289A7,#12CBC4);
+  font-size:25px;
+  font-weight:bold;
+  color:#2f3640;
+  padding:5px;
+  text-align:right;
+  opacity:0.95;
+}
+
+.topnav {
+  overflow: hidden;
+  background-image:linear-gradient(to bottom right,#ffa801,#ffdd59);
+  opacity:0.95;
+}
+
+.topnav a {
+  float: right;
+  color: #1B1464;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  background-image:linear-gradient(to bottom right,#9980FA,#D980FA);
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #5352ed;
+  color: white;
+}
+.foo {
+  overflow: hidden;
+  font-size:25px;
+  font-weight:bold;
+  color:black;
+  padding:5px;
+  margin-top:200px; 
+  text-align:center;
+}
+.hello {
+    border: 2px solid #3498db; 
+    background-color: #222f3e; 
+    height: 40px; 
+    width: 150px; 
+    color: #3498db; 
+	font-size:25px;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); 
+	cursor:pointer;
+}
+.hello:hover
+{
+	background-image:linear-gradient(to right, #00a8ff ,#ecf0f1);
+	color:black;
+}
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+.textbox{
+	width:80%;
+	overflow:hiddeen;
+	font-size:20px;
+	padding:8px 0;
+	margin:8px 0;
+	border-bottom:1px solid #4caf50;
+}
+.textbox i{
+	width:26px;
+	float:left;
+	text-align:center;
+}
+.textbox input{
+    border:none;
+    outline:none;
+    text-align:none;
+}
+
+#main-wrapper3
+{
+	width:600px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid orange;
+	opacity:0.90;
+}
